@@ -14,6 +14,4 @@ Instacart, an online grocery store that operates through an app. They want to un
 ● The marketing and sales teams are interested in the different types of customers in their system and how their ordering behaviors differ.
 
 ## Data
-Used open-source data sets from Instacart:
-- Customers Data Set
-- Data Dictionary
+Used open-source data sets from Instacart available [here](https://www.instacart.com/datasets/grocery-shopping-2017)
